@@ -6,5 +6,5 @@ Poster and research materials for our AVSS 2026 paper on open-set subject identi
 
 This poster was presented at the IEEE International Conference on Advanced Video and Signal-Based Surveillance (AVSS 2026).
 
-[View or download the poster](./AVSS_2026_Poster.pdf)
+[View or download the poster](./AVSS2026_Poster.pdf)
 
