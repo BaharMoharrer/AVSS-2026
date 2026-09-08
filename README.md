@@ -8,3 +8,8 @@ This poster was presented at the IEEE International Conference on Advanced Video
 
 [View or download the poster](./AVSS2026_Poster.pdf)
 
+
+This poster was jointly prepared and presented by:
+
+- Bahar Moharrer
+- Susanna Cifani - https://github.com/susannacifani
